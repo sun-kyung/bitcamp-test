@@ -1,2 +1,13 @@
 # .gitignore
 *.c
+*.log
+/build
+bin/
+.gradle/
+.settings/
+.classpath
+.project
+.exe
+temp/
+temp2/
+.vscode/
